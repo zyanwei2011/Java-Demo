@@ -36,12 +36,6 @@
             <version>1.0.0</version>
         </dependency>
 
-        <!--服务提供方引入fastjson依赖,便于telnet命令测试-->
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>1.2.51</version>
-        </dependency>
     </dependencies>
 
     <build>
