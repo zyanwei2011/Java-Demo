@@ -14,6 +14,6 @@ Connected to localhost.
 Escape character is '^]'.
 
 dubbo>invoke com.bjpowernode.dubbo.service.UserService.queryUserById(1223,"lili")  
-{"id":1223,"username":"2lili"}
+{"id":1223,"username":"lili"}
 ```
 
