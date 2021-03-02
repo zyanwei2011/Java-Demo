@@ -4,7 +4,7 @@
 + 006+007+008:    将接口项目独立出来，并配置zookeeper
 ### 2. zk方式访问
 + wen访问
->url: http://127.0.0.1:8080/userDetail?id=2323&username=lllls
+>url: http://10.12.224.14:8082/consumer/userDetail?id=2323&username=lllm
 
 + telnet访问
 ```shell
